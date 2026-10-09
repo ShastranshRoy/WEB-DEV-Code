@@ -1,0 +1,20 @@
+Shortcuts for VS Code editor
+
+1) Command + shift + P                       (Command Pallete)
+2) Command + P                               (Jump btw Files)
+3) Command + ","                             (Opens Settings)
+4) Control + "~"                             (Opens Terminal)
+5) Command + B                               (Toggles Side Bar)
+6) Command + Arrow keys                      (navigates all ends)
+7) Option + Arrow keys                       (Moves word by word)
+8) Command + Shift + Arrow key               (Selects entire line)
+9) Option + shift + down arrow key           (Duplicates the line)
+10) Option + up/down arrow key               (moves the line up/down)
+11) Option + click on a line                 (Double Cursor)
+12) Command(select) + D                      (Highlights the word)
+13) Control "+"                              (Toggles Terminal)
+14) Command + N                              (New File)
+15) Command + /                              (Add Line Comment)
+                              
+
+  
