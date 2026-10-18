@@ -36,6 +36,9 @@ const listTasks = () => {
 
 const removeTask = (task) => {
     const tasks = loadTasks();
+
+    // Pop is used to just remove last element without taking any parameter. When you have to delete certain element we use Splice method.
+
     // tasks.pop();
     // saveTasks(tasks);
     // console.log("Task removed");
